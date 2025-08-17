@@ -5,7 +5,7 @@ import profileImage from "@/assets/sujan-profile.jpg";
 export function Hero() {
   const handleViewResume = () => {
     // You can replace this with actual resume link
-    window.open("#", "_blank");
+    window.open("https://1drv.ms/b/c/5a8b25f0d490062c/EQilHgg8HZ5Ij1U6DF51EQgBPHb0o5nqeavNe1RLU61E1A", "_blank");
   };
 
   const handleContact = () => {
